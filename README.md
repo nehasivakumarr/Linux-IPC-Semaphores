@@ -127,7 +127,7 @@ $ ./sem.o
 
 $ ipcs
 
-file:///home/nehasivakumarr/os/ex05/Linux-IPC-Semaphores/5.png  
+![screenshot](pi/5a.png)  
 
 
 # RESULT:
