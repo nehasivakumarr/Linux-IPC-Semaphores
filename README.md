@@ -125,7 +125,8 @@ int main() {
 ## OUTPUT
 $ ./sem.o 
 $ ipcs
-file:///home/nehasivakumarr/Desktop/5.png 
+
+![screenshot](home/nehasivakumarr/Desktop/5.png) 
 
 
 # RESULT:
