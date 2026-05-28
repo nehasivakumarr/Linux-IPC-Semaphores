@@ -124,12 +124,12 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
+
 $ ipcs
 
-![screenshot](home/nehasivakumarr/Desktop/5.png) 
+file:///home/nehasivakumarr/os/ex05/Linux-IPC-Semaphores/5.png  
 
 
 # RESULT:
 The program is executed successfully.
-
 
